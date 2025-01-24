@@ -1,0 +1,4 @@
+Bot= Compras Super
+username= nicoycolo_bot
+api_token= 7161967766:AAGC-Q6BHJG2iHftUcSI4026_T39ijA-iqw
+Chat ID: 5801580852
